@@ -40,8 +40,8 @@ Esboço de uma plataforma de filmes no estilo Letterboxd utilizando `React` com 
 ### [Dominos Page](https://github.com/gildoamaral/pizzaria-dominos)
 Refazendo a pagina inicial da Pizzaria Dominos do 0, refazendo todas as suas funcionalidades. Foi utilizado `React` com `Typescript`, além de várias outras tecnologias acessórias...
 
-### [Controla Facil](https://github.com/gildoamaral/controla-facil-react-native)
-Como projeto para faculdade, nosso grupo idealizou um app para celular que fizesse controle de gastos e educação financeira utilizando `React Native`
+### [Autocare](https://github.com/gildoamaral/autocare)
+Como projeto para faculdade, nosso grupo idealizou um sistema completo de controle de frota utilizando as linguagens: `React Native` para mobile, `React` para front, `Node.js` no back e banco de dados em `MongoDB`.
 
 ---
 
