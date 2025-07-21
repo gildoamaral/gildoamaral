@@ -21,9 +21,9 @@ Sou Marco, desenvolvedor Full Stack com foco em Javascript e Springboot.
 ### [Confraria Vintage](https://github.com/gildoamaral/loja-confraria-vintage) | [acesso ao site](https://confraria-vintage.vercel.app/)
 Inicialmente como projeto de faculdade, trata-se de um e-commerce completo de roupas femininas. Site implementa as seguintes tecnologias: FrontEnd: `React (routes)`, BackEnd: `Node (express)`, DB: `MySQL (via Prisma)`, Deploy/Infra: `Vercel`, `railway`, `AWS S3`;
 
-### [Cinetag](https://github.com/gildoamaral/cinetag) | [acesso ao site](cinetag-teal.vercel.app)
+### [Cinetag](https://github.com/gildoamaral/cinetag) | [acesso ao site](https://cinetag-teal.vercel.app/)
 Esboço de uma plataforma de filmes no estilo Letterboxd utilizando `React` com react-router-dom e Context Api;
 
-### [Dominos Page](https://github.com/gildoamaral/pizzaria-dominos) | [acesso ao site](pizzaria-dominos.vercel.app)
+### [Dominos Page](https://github.com/gildoamaral/pizzaria-dominos) | [acesso ao site](https://pizzaria-dominos.vercel.app)
 Como forma de estudo pessoal de tecnologias frontEnd modernas, código busca implementar o visual da pizzaria Dominus utilizando `React` com `Typescript`, além de várias outras ferramentas...
 
