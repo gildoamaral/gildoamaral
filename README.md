@@ -1,12 +1,6 @@
 # Olá, me chamo Marco Antonio! 👋
 
-Sou um desenvolvedor full stack que quer apenas fazer a diferença na comunidade.
-
-- 🌱 Atualmente, estou aprendendo Java.
-- 👯 Estou procurando colaborar em projetos interessantes de React.
-- 💬 Pergunte-me sobre Java em backend e React em frontend.
-- 📫 Como me alcançar: gildo.marco@gmail.com
-- ⚡ Fato divertido: Nas horas vagas estou lendo HQs
+Desenvolvedor Full Stack com foco em Javascript e Springboot.
 
 ## 🌐 Conecte-se comigo
 
@@ -21,16 +15,12 @@ Sou um desenvolvedor full stack que quer apenas fazer a diferença na comunidade
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-000?style=for-the-badge&logo=react&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=white)
+![MYSQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gildoamaral&show_icons=true&theme=dark)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gildoamaral&layout=compact&theme=dark)
 
-## 🏆 Conquistas
-
-[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=gildoamaral&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📂 Repositórios Importantes
 
@@ -44,6 +34,4 @@ Refazendo a pagina inicial da Pizzaria Dominos do 0, refazendo todas as suas fun
 Como projeto para faculdade, nosso grupo idealizou um sistema completo de controle de frota utilizando as linguagens: `React Native` para mobile, `React` para front, `Node.js` no back e banco de dados em `MongoDB`.
 
 ---
-
-⭐️ Deixe uma estrela nos meus repositórios se você gostou do meu trabalho!
 
