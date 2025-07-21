@@ -27,10 +27,3 @@ Esboço de uma plataforma de filmes no estilo Letterboxd utilizando `React` com 
 ### [Dominos Page](https://github.com/gildoamaral/pizzaria-dominos) | [acesso ao site](pizzaria-dominos.vercel.app)
 Como forma de estudo pessoal de tecnologias frontEnd modernas, código busca implementar o visual da pizzaria Dominus utilizando `React` com `Typescript`, além de várias outras ferramentas...
 
-
-## 🌐 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-antonio-gil-9a1369184/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gildoamaral/)
----
-
