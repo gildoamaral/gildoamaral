@@ -2,7 +2,7 @@
 Sou Marco, desenvolvedor Full Stack com foco em Javascript e Springboot.
 
  * Graduado em Análise e Desenvolvimento de Sistemas pela PUC MG;
- * 3 anos de experiência em desenvolvimento de software, trabalhando em projetos academicos, profissionais e solidários;
+ * 2 anos de experiência em desenvolvimento de software, trabalhando em projetos academicos, profissionais e solidários;
 
 ## 🚀 Tecnologias e Ferramentas
 
