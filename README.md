@@ -18,7 +18,7 @@ Sou Marco, desenvolvedor Full Stack com foco em Javascript e Springboot.
 
 ## 📂 Repositórios Importantes
 
-### [Confraria Vintage](https://github.com/gildoamaral/loja-confraria-vintage) | [acesso ao site](https://confraria-vintage.vercel.app/)
+### [Confraria Vintage](https://github.com/gildoamaral/loja-confraria-vintage) | [acesso ao site](https://front-production-8ec4.up.railway.app/)
 Inicialmente como projeto de faculdade, trata-se de um e-commerce completo de roupas femininas. Site implementa as seguintes tecnologias: FrontEnd: `React (routes)`, BackEnd: `Node (express)`, DB: `MySQL (via Prisma)`, Deploy/Infra: `Vercel`, `railway`, `AWS S3`;
 
 ### [Cinetag](https://github.com/gildoamaral/cinetag) | [acesso ao site](https://cinetag-teal.vercel.app/)
