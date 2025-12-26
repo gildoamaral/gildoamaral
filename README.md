@@ -13,7 +13,7 @@ Sou Marco, desenvolvedor Full Stack com foco em Javascript e Springboot.
 - **🔐 Autenticação:** JWT, Bcrypt;
 </br>
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gildoamaral&layout=compact&theme=dark)
+![Linguagens Mais Usadas](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gildoamaral&layout=compact&theme=dark)
 
 
 ## 📂 Repositórios Importantes
