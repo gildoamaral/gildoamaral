@@ -2,7 +2,10 @@
 Sou Marco, desenvolvedor Full Stack com foco em Javascript e Springboot.
 
  * Graduado em Análise e Desenvolvimento de Sistemas pela PUC MG;
- * 2 anos de experiência em desenvolvimento de software, trabalhando em projetos academicos, profissionais e solidários;
+ * 3 anos de experiência em desenvolvimento de software;
+ * Sou desenvolvedor do site Confraria Vintage, ecommerce de roupas;
+ * Faço parte do time da Evotech de Engenharia de Software freelancer voltado para SaaS (atualmente utilizando Nest.js);
+ * Faço parte do time da Horizon de Engenharia de Software freelancer voltado para SaaS (autalmente utilizando React Native;
 
 ## 🚀 Tecnologias e Ferramentas
 
