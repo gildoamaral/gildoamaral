@@ -101,11 +101,11 @@ Sou Marco, desenvolvedor Full Stack com foco em Javascript e Springboot.
 ## 📂 Repositórios Importantes
 
 ### [Confraria Vintage](https://github.com/gildoamaral/loja-confraria-vintage) | [acesso ao site do cliente](https://www.confrariavintage.com.br) | [acesso ao site modelo](https://confraria-vintage-production.up.railway.app/)
-Inicialmente como projeto de faculdade, trata-se de um e-commerce completo de roupas femininas. Site implementa as seguintes tecnologias: FrontEnd: `React (routes)`, BackEnd: `Node (express)`, DB: `MySQL (via Prisma)`, Deploy/Infra: `Vercel`, `railway`, `AWS S3`;
+Inicialmente como projeto de faculdade, trata-se de um e-commerce completo de roupas femininas. Site implementa as seguintes tecnologias: FrontEnd: `React`, BackEnd: `Node (express)`, DB: `MySQL (via Prisma)`, Deploy/Infra: `Vercel`, `railway`, `AWS S3`;
 
 ### [Cinetag](https://github.com/gildoamaral/cinetag) | [acesso ao site](https://cinetag-teal.vercel.app/)
-Esboço de uma plataforma de filmes no estilo Letterboxd utilizando `React` com react-router-dom e Context Api;
+Esboço de uma plataforma de filmes no estilo Letterboxd para ver os filmes mais populares segundo o TMDb (API Externa). Utiliando `React` com `typescript`, Consumo de IA `Google Gemini`, State Management e Cache: `Zustand` e `Tanstack Query` styling: `tailwind`, deploy: `vercel`;
 
 ### [Dominos Page](https://github.com/gildoamaral/pizzaria-dominos) | [acesso ao site](https://pizzaria-dominos.vercel.app)
-Como forma de estudo pessoal de tecnologias frontEnd modernas, código busca implementar o visual da pizzaria Dominus utilizando `React` com `Typescript`, além de várias outras ferramentas...
+Como forma de estudo pessoal de tecnologias frontEnd modernas, código busca implementar o visual da pizzaria Dominus utilizando `React` com `Typescript`, `tailwind` para estilização;
 
