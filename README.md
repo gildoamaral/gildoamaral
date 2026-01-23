@@ -109,3 +109,6 @@ Esboço de uma plataforma de filmes no estilo Letterboxd para ver os filmes mais
 ### [Dominos Page](https://github.com/gildoamaral/pizzaria-dominos) | [acesso ao site](https://pizzaria-dominos.vercel.app)
 Como forma de estudo pessoal de tecnologias frontEnd modernas, código busca implementar o visual da pizzaria Dominus utilizando `React` com `Typescript`, `tailwind` para estilização;
 
+<br>
+
+Acesse meu portifólio [clique aqui!](https://gil-devfolio.vercel.app/)
