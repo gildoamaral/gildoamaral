@@ -7,6 +7,8 @@ Sou Marco, desenvolvedor Full Stack com foco em Javascript e Springboot.
  * Faço parte do time da Evotech de Engenharia de Software freelancer voltado para SaaS (atualmente utilizando Nest.js);
  * Faço parte do time da Horizon de Engenharia de Software freelancer voltado para SaaS (autalmente utilizando React Native;
 
+Acesse meu portifólio [clique aqui!](https://gil-devfolio.vercel.app/)
+
 ## 🚀 Tecnologias e Ferramentas
 
 ### Front-end & Mobile
@@ -106,9 +108,5 @@ Inicialmente como projeto de faculdade, trata-se de um e-commerce completo de ro
 ### [Cinetag](https://github.com/gildoamaral/cinetag) | [acesso ao site](https://cinetag-teal.vercel.app/)
 Esboço de uma plataforma de filmes no estilo Letterboxd para ver os filmes mais populares segundo o TMDb (API Externa). Utiliando `React` com `typescript`, Consumo de IA `Google Gemini`, State Management e Cache: `Zustand` e `Tanstack Query` styling: `tailwind`, deploy: `vercel`;
 
-### [Dominos Page](https://github.com/gildoamaral/pizzaria-dominos) | [acesso ao site](https://pizzaria-dominos.vercel.app)
-Como forma de estudo pessoal de tecnologias frontEnd modernas, código busca implementar o visual da pizzaria Dominus utilizando `React` com `Typescript`, `tailwind` para estilização;
-
-<br>
-
-Acesse meu portifólio [clique aqui!](https://gil-devfolio.vercel.app/)
+### [O Trabalhante - Calculadora Trabalhista](https://github.com/gildoamaral/o-trabalhante-calculadora-trabalhista) | [acesso ao site](https://otrabalhante.vercel.app)
+Caluladora Trabalhista para calcular valores de férias, rescisão e décimo terceiro, além de exibir ligislação referente a cada caso. Feito com `Next.js`, `Typescript`, `shadcn`, deploy no `vercel`;
