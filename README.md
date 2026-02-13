@@ -32,6 +32,10 @@ Acesse meu portifólio [clique aqui!](https://gil-devfolio.vercel.app/)
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React_Native-white?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react&logoColor=white">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vue.js-white?style=for-the-badge&logo=vue.js&logoColor=black">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js Badge">
+</picture>
 
 ### Back-end
 <picture>
@@ -105,8 +109,8 @@ Acesse meu portifólio [clique aqui!](https://gil-devfolio.vercel.app/)
 ### [Confraria Vintage](https://github.com/gildoamaral/loja-confraria-vintage) | [acesso ao site do cliente](https://www.confrariavintage.com.br) | [acesso ao site modelo](https://confraria-vintage-production.up.railway.app/)
 Inicialmente como projeto de faculdade, trata-se de um e-commerce completo de roupas femininas. Site implementa as seguintes tecnologias: FrontEnd: `React`, BackEnd: `Node (express)`, DB: `MySQL (via Prisma)`, Deploy/Infra: `Vercel`, `railway`, `AWS S3`;
 
-### [Cinetag](https://github.com/gildoamaral/cinetag) | [acesso ao site](https://cinetag-teal.vercel.app/)
-Esboço de uma plataforma de filmes no estilo Letterboxd para ver os filmes mais populares segundo o TMDb (API Externa). Utiliando `React` com `typescript`, Consumo de IA `Google Gemini`, State Management e Cache: `Zustand` e `Tanstack Query` styling: `tailwind`, deploy: `vercel`;
-
 ### [O Trabalhante - Calculadora Trabalhista](https://github.com/gildoamaral/o-trabalhante-calculadora-trabalhista) | [acesso ao site](https://www.otrabalhante.com.br)
 Caluladora Trabalhista para calcular valores de férias, rescisão e décimo terceiro, além de exibir ligislação referente a cada caso. Feito com `Next.js`, `Typescript`, `shadcn`, deploy no `vercel`;
+
+### [Cinetag](https://github.com/gildoamaral/cinetag) | [acesso ao site](https://cinetag-teal.vercel.app/)
+Esboço de uma plataforma de filmes no estilo Letterboxd para ver os filmes mais populares segundo o TMDb (API Externa). Utiliando `React` com `typescript`, Consumo de IA `Google Gemini`, State Management e Cache: `Zustand` e `Tanstack Query` styling: `tailwind`, deploy: `vercel`;
