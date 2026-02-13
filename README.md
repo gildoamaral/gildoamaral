@@ -108,5 +108,5 @@ Inicialmente como projeto de faculdade, trata-se de um e-commerce completo de ro
 ### [Cinetag](https://github.com/gildoamaral/cinetag) | [acesso ao site](https://cinetag-teal.vercel.app/)
 Esboço de uma plataforma de filmes no estilo Letterboxd para ver os filmes mais populares segundo o TMDb (API Externa). Utiliando `React` com `typescript`, Consumo de IA `Google Gemini`, State Management e Cache: `Zustand` e `Tanstack Query` styling: `tailwind`, deploy: `vercel`;
 
-### [O Trabalhante - Calculadora Trabalhista](https://github.com/gildoamaral/o-trabalhante-calculadora-trabalhista) | [acesso ao site](https://otrabalhante.vercel.app)
+### [O Trabalhante - Calculadora Trabalhista](https://github.com/gildoamaral/o-trabalhante-calculadora-trabalhista) | [acesso ao site](https://www.otrabalhante.com.br)
 Caluladora Trabalhista para calcular valores de férias, rescisão e décimo terceiro, além de exibir ligislação referente a cada caso. Feito com `Next.js`, `Typescript`, `shadcn`, deploy no `vercel`;
